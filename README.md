@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Yasoul-editing-red)](https://www.youtube.com/channel/UCJN6B72PfifkriRXOhdkjQQ)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Yasoulediting-red)](https://www.youtube.com/channel/UCJN6B72PfifkriRXOhdkjQQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Yashraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/yashraj-singh-parihar-8b67ab245/)
 
 I'm
